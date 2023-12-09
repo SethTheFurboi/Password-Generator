@@ -2,7 +2,7 @@
 
 ## Description
 
-A website for the company "Horiseon" about managing your online reputation as a company
+A password generator
 
 ## Installation
 
@@ -10,11 +10,11 @@ N/A
 
 ## Usage
 
-To use this, read the article.
+To use this, click the generate button ans answer the questions
 
 ## Credits
 
-Base Website: University of Wisconsin Coding Boot Camp; Sorted by: Seth Correa (Seth the Furboi)
+Base Website: University of Wisconsin Coding Boot Camp; Javascript by: Seth Correa (Seth the Furboi)
 
 ## License
 
